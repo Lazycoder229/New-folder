@@ -2,7 +2,7 @@ out("Ghehjfd")
 let age = 5
 if age < 23:
     out("Cannot be")
-outn(age)
+
 
 
 
